@@ -1,23 +1,37 @@
-### Hi there 👋
-### 🌱 I'm a third-year Software Engineering student at the University of Auckland with a passion for solving complex problems and crafting innovative software solutions. With a strong foundation in programming, system design, and web development.
+# Hi there, I’m Kevin 👋
+
+🎓 Fourth-year Software Engineering student at The University of Auckland
+
+I enjoy building reliable, user-focused applications and learning fast in real-world teams.
+
+---
 
 ## 🚀 Technical Skills
 
-- **Programming:** C, MATLAB, Java
-- **Web Development:** HTML, JavaScript, CSS
-- **Core Concepts:** Object-Oriented Programming, System Design, Data Structures & Algorithms
+**Languages:** TypeScript • Java • C • MATLAB  
+**Frontend:** React • Tailwind CSS • Vite • HTML • CSS  
+**Backend:** Node.js  
+**Testing:** Jest • Playwright  
+**Tools & Practices:** Git • REST APIs • Clean code • Component-based design
 
-## 🔭 What I'm Exploring
+---
 
-I'm always eager to dive into new technologies and expand my skills, particularly in areas like AI, interactive web applications, and scalable software design.
+## 🧠 What I’m Interested In
+
+- Frontend engineering (modern React, UI quality, performance)
+- Full-stack development (building and integrating APIs)
+- Testing and engineering quality (unit + E2E, maintainability)
+
+---
+
+## ✅ What You Can Expect From Me
+
+- Strong fundamentals (DSA, OOP, system design basics)
+- Write readable code and communicate clearly
+- Comfortable picking up new tools quickly and shipping iteratively
+- Care about product details: edge cases, UX, and testing
+
+---
 
 ## 📫 Get in Touch
-
-Feel free to drop me a line at [kevinw4ng712@gmail.com](mailto:kevinw4ng712@gmail.com)
-
-
-
-
-
-
-
+kevinw4ng712@gmail.com

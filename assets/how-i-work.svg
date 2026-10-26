@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="205" viewBox="0 0 390 205" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">How I work</title>
+  <desc id="desc">Automated tests, accessible interfaces, and reviewed contributions.</desc>
+  <rect x=".5" y=".5" width="389" height="204" rx="10" fill="#0A0D0C" stroke="#24302B"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="24" y="40" fill="#6EE7B7" font-size="22" font-weight="600">How I work</text>
+    <text x="54" y="88" fill="#EEF6F2" font-size="17">Automated tests</text>
+    <text x="54" y="127" fill="#EEF6F2" font-size="17">Accessible interfaces</text>
+    <text x="54" y="166" fill="#EEF6F2" font-size="17">Reviewed contributions</text>
+  </g>
+  <g stroke="#6EE7B7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="34" cy="81" r="9"/><path d="M29 81L32 84L39 77"/>
+    <circle cx="34" cy="112" r="2"/><path d="M26 117L34 119L42 117M34 119V123M34 123L29 128M34 123L39 128"/>
+    <circle cx="28" cy="151" r="2.5"/><circle cx="28" cy="165" r="2.5"/><circle cx="40" cy="153" r="2.5"/><path d="M28 154V162M40 156V158C40 161 37 161 34 161H28"/>
+  </g>
+  <path d="M24 185H366" stroke="#24302B"/>
+</svg>

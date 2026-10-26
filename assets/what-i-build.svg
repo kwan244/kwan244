@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="205" viewBox="0 0 390 205" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">What I build</title>
+  <desc id="desc">Full-stack applications, APIs and data flows, and interactive interfaces.</desc>
+  <rect x=".5" y=".5" width="389" height="204" rx="10" fill="#0A0D0C" stroke="#24302B"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="24" y="40" fill="#6EE7B7" font-size="22" font-weight="600">What I build</text>
+    <text x="54" y="88" fill="#EEF6F2" font-size="17">Full-stack applications</text>
+    <text x="54" y="127" fill="#EEF6F2" font-size="17">APIs and data flows</text>
+    <text x="54" y="166" fill="#EEF6F2" font-size="17">Interactive interfaces</text>
+  </g>
+  <g stroke="#6EE7B7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="25" y="73" width="18" height="16" rx="2"/><path d="M25 78H43M29 76H30M33 76H34M29 82H34M29 85H39"/>
+    <path d="M30 113L25 118L30 123M38 113L43 118L38 123M36 110L32 126"/>
+    <rect x="25" y="151" width="18" height="15" rx="2"/><path d="M25 156H43M30 156V166M34 160H39M34 163H38"/>
+  </g>
+  <path d="M24 185H366" stroke="#24302B"/>
+</svg>

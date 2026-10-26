@@ -115,26 +115,25 @@ Tools I've used across internship work, team projects and my own applications.
 ![Vercel](https://img.shields.io/badge/Vercel-121816?style=flat-square&logo=vercel&logoColor=6ee7b7)
 ![Railway](https://img.shields.io/badge/Railway-121816?style=flat-square&logo=railway&logoColor=6ee7b7)
 
-## GitHub at a glance
+## Engineering at a glance
 
-A snapshot of my GitHub activity. The language chart reflects code in public commits.
+<p align="center">
+  <a href="https://www.kevin-wang.dev/#projects">
+    <img src="assets/what-i-build.svg" width="390" alt="What I build: full-stack applications, APIs and data flows, interactive interfaces." />
+  </a>
+  <a href="https://www.kevin-wang.dev/projects/plateful">
+    <img src="assets/how-i-work.svg" width="390" alt="How I work: automated tests, accessible interfaces, reviewed contributions." />
+  </a>
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan244&name=Kevin%20Wang&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b&icon_color=6ee7b7&chart_color=6ee7b7" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan244&name=Kevin%20Wang&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db&icon_color=047857&chart_color=047857" width="800" alt="Kevin Wang's GitHub contribution activity" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwan244&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b&icon_color=6ee7b7&chart_color=6ee7b7" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwan244&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db&icon_color=047857&chart_color=047857" width="390" alt="Kevin Wang's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwan244&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b&icon_color=6ee7b7" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwan244&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db&icon_color=047857" width="390" alt="Languages used in Kevin Wang's public commits" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwan244&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwan244&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db" width="390" alt="Languages used in my public GitHub commits." />
   </picture>
 </p>
 
-[Explore my repositories →](https://github.com/kwan244?tab=repositories) · [View contributions →](https://github.com/kwan244)
+[Explore my projects →](https://www.kevin-wang.dev/#projects) · [Browse my repositories →](https://github.com/kwan244?tab=repositories)
 
 ## Good things begin with a conversation.
 

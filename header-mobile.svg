@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Kevin Wang — Software Engineering</title>
+  <desc id="description">Kevin Wang, fourth-year Software Engineering student at the University of Auckland. Full-stack development and testing. Auckland, New Zealand.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; }
+    .cursor { animation: blink 1s step-end 3; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="glow" x1="32" y1="330" x2="570" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14382B" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#0A0D0C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="339" rx="16" fill="#0A0D0C" stroke="#24302B"/>
+  <rect x="1" y="48" width="598" height="291" rx="15" fill="url(#glow)"/>
+  <path d="M1 48H599" stroke="#24302B"/>
+  <circle cx="24" cy="25" r="4" fill="#4A5F56"/>
+  <circle cx="41" cy="25" r="4" fill="#4A5F56"/>
+  <circle cx="58" cy="25" r="4" fill="#6EE7B7"/>
+  <text x="82" y="30" class="mono" font-size="15" fill="#9FB8AD">~/kwan244</text>
+  <text x="568" y="30" text-anchor="end" class="mono" font-size="13" fill="#9FB8AD">AUCKLAND, NZ</text>
+  <text x="32" y="103" class="mono" font-size="20" fill="#9FB8AD"><tspan fill="#6EE7B7">kevin@auckland</tspan> ~ % whoami</text>
+  <text x="32" y="181" class="mono" font-size="62" font-weight="700" letter-spacing="-2" fill="#A7F3D0">Kevin Wang</text>
+  <rect x="367" y="130" width="22" height="55" class="cursor" fill="#6EE7B7"/>
+  <text x="32" y="235" class="mono" font-size="22" fill="#EEF6F2">Fourth-year Software Engineering student</text>
+  <text x="32" y="272" class="mono" font-size="21" fill="#9FB8AD">University of Auckland</text>
+  <text x="32" y="308" class="mono" font-size="19" fill="#9FB8AD">Full-stack development · Testing</text>
+</svg>

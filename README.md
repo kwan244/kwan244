@@ -62,36 +62,79 @@ Part of the student development team building the club's live membership, events
 | **[Personal portfolio](https://github.com/kwan244/personal-website)**<br>Personal project | A drawn desk scene with interactive project notes, light and dark themes, accessible navigation, case studies and generated social previews.<br>[Visit the site](https://www.kevin-wang.dev) | Next.js · TypeScript · Tailwind CSS · Playwright · axe |
 | **[Rock Paper Scissors](https://github.com/kwan244/RockPaperScissorsWebsite)**<br>Solo learning project | A browser game with three difficulty modes, an opponent that adapts to move history, and scores that survive a refresh.<br>[Case study](https://www.kevin-wang.dev/projects/rock-paper-scissors) · [Play](https://kwan244.github.io/RockPaperScissorsWebsite/) | JavaScript · HTML · CSS · localStorage |
 
-## Tools I work with
+## Tech stack
+
+Tools I've used across internship work, team projects and my own applications.
+
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-121816?style=flat-square&logo=typescript&logoColor=6ee7b7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-121816?style=flat-square&logo=javascript&logoColor=6ee7b7)
+![Java](https://img.shields.io/badge/Java-121816?style=flat-square&logo=openjdk&logoColor=6ee7b7)
+![C](https://img.shields.io/badge/C-121816?style=flat-square&logo=c&logoColor=6ee7b7)
+![MATLAB](https://img.shields.io/badge/MATLAB-121816?style=flat-square&logoColor=6ee7b7)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-121816?style=flat-square&logo=react&logoColor=6ee7b7)
 ![Next.js](https://img.shields.io/badge/Next.js-121816?style=flat-square&logo=nextdotjs&logoColor=6ee7b7)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121816?style=flat-square&logo=tailwindcss&logoColor=6ee7b7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-121816?style=flat-square&logo=tailwindcss&logoColor=6ee7b7)
+![Vite](https://img.shields.io/badge/Vite-121816?style=flat-square&logo=vite&logoColor=6ee7b7)
+![HTML5](https://img.shields.io/badge/HTML5-121816?style=flat-square&logo=html5&logoColor=6ee7b7)
+![CSS3](https://img.shields.io/badge/CSS3-121816?style=flat-square&logo=css&logoColor=6ee7b7)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-121816?style=flat-square&logo=nodedotjs&logoColor=6ee7b7)
+![Express](https://img.shields.io/badge/Express-121816?style=flat-square&logo=express&logoColor=6ee7b7)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-121816?style=flat-square&logo=springboot&logoColor=6ee7b7)
+![Prisma](https://img.shields.io/badge/Prisma-121816?style=flat-square&logo=prisma&logoColor=6ee7b7)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-121816?style=flat-square&logoColor=6ee7b7)
+![Zod](https://img.shields.io/badge/Zod-121816?style=flat-square&logo=zod&logoColor=6ee7b7)
+
+**Databases & cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-121816?style=flat-square&logo=mysql&logoColor=6ee7b7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121816?style=flat-square&logo=postgresql&logoColor=6ee7b7)
+![MongoDB](https://img.shields.io/badge/MongoDB-121816?style=flat-square&logo=mongodb&logoColor=6ee7b7)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-121816?style=flat-square&logoColor=6ee7b7)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-121816?style=flat-square&logoColor=6ee7b7)
+
+**Testing & accessibility**
+
+![Jest](https://img.shields.io/badge/Jest-121816?style=flat-square&logo=jest&logoColor=6ee7b7)
+![Vitest](https://img.shields.io/badge/Vitest-121816?style=flat-square&logo=vitest&logoColor=6ee7b7)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-121816?style=flat-square&logo=testinglibrary&logoColor=6ee7b7)
+![Playwright](https://img.shields.io/badge/Playwright-121816?style=flat-square&logoColor=6ee7b7)
+![axe](https://img.shields.io/badge/axe-121816?style=flat-square&logoColor=6ee7b7)
+
+**Delivery & tools**
+
 ![Git](https://img.shields.io/badge/Git-121816?style=flat-square&logo=git&logoColor=6ee7b7)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-121816?style=flat-square&logo=githubactions&logoColor=6ee7b7)
+![Vercel](https://img.shields.io/badge/Vercel-121816?style=flat-square&logo=vercel&logoColor=6ee7b7)
+![Railway](https://img.shields.io/badge/Railway-121816?style=flat-square&logo=railway&logoColor=6ee7b7)
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Java, C, MATLAB |
-| **Frontend** | React, Next.js, Tailwind CSS, Vite, HTML, CSS |
-| **Backend & data** | Node.js, Express, Spring Boot, REST APIs, Prisma, MySQL, PostgreSQL, MongoDB |
-| **Cloud & delivery** | AWS S3, AWS RDS, Railway, Vercel, GitHub Actions |
-| **Testing** | Jest, Vitest, React Testing Library, Playwright, axe |
+## GitHub at a glance
 
-<details>
-<summary><strong>GitHub activity</strong></summary>
+A snapshot of my GitHub activity. The language chart reflects code in public commits.
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan244&name=Kevin%20Wang&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b&icon_color=6ee7b7&chart_color=6ee7b7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan244&name=Kevin%20Wang&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db&icon_color=047857&chart_color=047857" width="800" alt="Kevin Wang's GitHub contribution activity" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwan244&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b&icon_color=6ee7b7&chart_color=6ee7b7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwan244&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db&icon_color=047857&chart_color=047857" width="390" alt="Kevin Wang's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwan244&theme=github_dark&title_color=6ee7b7&text_color=9fb8ad&bg_color=0a0d0c&border_color=24302b&icon_color=6ee7b7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwan244&theme=github&title_color=047857&text_color=4a5f56&bg_color=f6fbf8&border_color=d3e3db&icon_color=047857" width="390" alt="Languages used in Kevin Wang's public commits" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan244&theme=github_dark&title_color=6ee7b7&chart_color=6ee7b7&bg_color=0a0d0c&border_color=24302b" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwan244&theme=github&title_color=047857&chart_color=047857" width="100%" alt="Kevin Wang's GitHub contribution activity. Open my GitHub profile for the current contribution graph." />
-</picture>
-
-[View my GitHub profile and contributions →](https://github.com/kwan244)
-
-</details>
+[Explore my repositories →](https://github.com/kwan244?tab=repositories) · [View contributions →](https://github.com/kwan244)
 
 ## Good things begin with a conversation.
 
